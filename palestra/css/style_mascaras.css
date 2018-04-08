@@ -1,0 +1,15 @@
+/*ESTILO DAS MÁSCARAS INPUT*/ 
+label{}
+label.normal{
+    display: block;
+    margin: 0 0 10px 0;
+  } 
+form input.normal{
+    display: block;
+    margin: 0 0 10px 0;
+  }
+form input.error {
+  }
+label.error {  
+    color: red;
+  } 
